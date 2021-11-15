@@ -1,0 +1,1 @@
+[12-Nov-2021 00:31:42 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/artheckc/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
